@@ -1,7 +1,8 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-adding line for testing
+adding line for testing, 
+more changes
 
 ## Purpose
 
